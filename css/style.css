@@ -19,6 +19,12 @@ body {
   background-color: var(--lightDark);
 }
 
+a.brand {
+  text-decoration: none;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
 /* nav start */
 .nav {
   background-color: var(--dark);
