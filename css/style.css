@@ -19,11 +19,11 @@ body {
   background-color: var(--lightDark);
 }
 
-a.brand {
+/* a.brand {
   text-decoration: none;
   font-weight: 700;
   letter-spacing: 2px;
-}
+} */
 
 /* nav start */
 .nav {
